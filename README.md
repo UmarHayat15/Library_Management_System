@@ -1,5 +1,5 @@
 # Library_Management_System
-:- This is a simple implementation of a Library Management System (LMS) using C++. The program allows users to manage a collection of books by performing various operations such as entering book data, editing book information, deleting books, searching for books, and displaying the book collection.
+:-This is a simple implementation of a Library Management System (LMS) using C++. The program allows users to manage a collection of books by performing various operations such as entering book data, editing book information, deleting books, searching for books, and displaying the book collection.
 
 # Features
 * Add new books to the collection with details like author name, book title, publication, and book ID.
