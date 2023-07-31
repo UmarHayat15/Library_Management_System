@@ -1,5 +1,5 @@
 # Library_Management_System
-:-This is a simple implementation of a Library Management System (LMS) using C++. The program allows users to manage a collection of books by performing various operations such as entering book data, editing book information, deleting books, searching for books, and displaying the book collection.
+This is a simple implementation of a Library Management System (LMS) using C++. The program allows users to manage a collection of books by performing various operations such as entering book data, editing book information, deleting books, searching for books, and displaying the book collection.
 
 # Features
 * Add new books to the collection with details like author name, book title, publication, and book ID.
@@ -18,8 +18,8 @@
 * To display all the books in the collection, select option 5.
 
 # File Persistence
-:- The program uses file I/O to store the book records in the file named "LMS.txt". The data is saved to the file whenever a new book is added, book information is edited, or a book is deleted. On program startup, it loads the data from the file into the linked list.
+The program uses file I/O to store the book records in the file named "LMS.txt". The data is saved to the file whenever a new book is added, book information is edited, or a book is deleted. On program startup, it loads the data from the file into the linked list.
 
 # Contributing
-:- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
